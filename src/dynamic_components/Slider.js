@@ -155,19 +155,16 @@ class Slider extends Component {
         </button>
 
         <div className="row">
-          {/* {IMG_DATA.map((source, itemIndex) => ( */}
           <img
             src={src}
-            //src={source}
             alt="images"
             onTouchStart={(e) => this.touchSwipe(e)}
             onTouchMove={(e) => this.touchSwipe(e)}
             onTouchEnd={(e) => this.touchSwipe(e)}
             onDragStart={(e) => this.mouseSwipe(e)}
             onDragEnd={(e) => this.mouseSwipe(e)}
-            className="slide__image fade"
+            className="slide__image"
           />
-          {/* ))} */}
         </div>
 
         <button

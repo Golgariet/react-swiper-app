@@ -1,7 +1,7 @@
 {
-  "homepage": "http://golgariet.github.io/Infinite-Swiper-App/index.html",
   "name": "swiper",
   "version": "0.1.0",
+  "homepage": "http://Golgariet.github.io/react-swiper/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

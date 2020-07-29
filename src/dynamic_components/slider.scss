@@ -160,6 +160,10 @@ input:checked + .switcher:before {
         height: inherit;
         position: relative;
 
+            @media only screen and (max-width: $bp-outdated) {
+      width: 2%;
+    }
+
         &:not(:last-of-type) {
           margin-right: 5%;
         }

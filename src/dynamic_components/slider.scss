@@ -155,13 +155,13 @@ input:checked + .switcher:before {
       height: 30px;
 
       li {
-        width: 1%;
+        width: 2%;
         box-sizing: border-box;
         height: inherit;
         position: relative;
 
             @media only screen and (max-width: $bp-outdated) {
-              width: 2%;
+              width: 3%;
     }
 
         &:not(:last-of-type) {

@@ -1,7 +1,7 @@
 {
   "name": "swiper",
   "version": "0.1.0",
-  "homepage": "http://Golgariet.github.io/react-swiper/",
+  "homepage": "http://Golgariet.github.io/react-swiper-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

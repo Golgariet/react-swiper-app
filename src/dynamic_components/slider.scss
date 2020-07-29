@@ -161,7 +161,7 @@ input:checked + .switcher:before {
         position: relative;
 
             @media only screen and (max-width: $bp-outdated) {
-      width: 2%;
+              width: 2%;
     }
 
         &:not(:last-of-type) {

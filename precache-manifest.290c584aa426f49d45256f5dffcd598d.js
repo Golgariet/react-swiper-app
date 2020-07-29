@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9daab6554957cbf3e16afcaf1e5f712",
+    "revision": "c1d0a368351fccd819c548125decb9e8",
     "url": "/react-swiper-app/index.html"
   },
   {
-    "revision": "ab86a59a33941dd0cc2e",
-    "url": "/react-swiper-app/static/css/main.64181d8d.chunk.css"
+    "revision": "9334158ce994fc8016d6",
+    "url": "/react-swiper-app/static/css/main.cfb5fdca.chunk.css"
   },
   {
     "revision": "151a1af65f9763386415",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-swiper-app/static/js/2.57d875e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab86a59a33941dd0cc2e",
+    "revision": "9334158ce994fc8016d6",
     "url": "/react-swiper-app/static/js/main.7e3648d1.chunk.js"
   },
   {

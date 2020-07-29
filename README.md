@@ -2,7 +2,7 @@
 
 Slider - UI component made in React with HTML content around it specifically designed as an issue product tracker similar to Jira.
 
-Link: www.something.com
+Link: [https://golgariet.github.io/react-swiper/](https://golgariet.github.io/react-swiper/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

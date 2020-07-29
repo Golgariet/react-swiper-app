@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-swiper-app/static/css/main.cfb5fdca.chunk.css",
+    "main.css": "/react-swiper-app/static/css/main.79811011.chunk.css",
     "main.js": "/react-swiper-app/static/js/main.7e3648d1.chunk.js",
     "main.js.map": "/react-swiper-app/static/js/main.7e3648d1.chunk.js.map",
     "runtime-main.js": "/react-swiper-app/static/js/runtime-main.044dde02.js",
@@ -8,9 +8,9 @@
     "static/js/2.57d875e6.chunk.js": "/react-swiper-app/static/js/2.57d875e6.chunk.js",
     "static/js/2.57d875e6.chunk.js.map": "/react-swiper-app/static/js/2.57d875e6.chunk.js.map",
     "index.html": "/react-swiper-app/index.html",
-    "precache-manifest.290c584aa426f49d45256f5dffcd598d.js": "/react-swiper-app/precache-manifest.290c584aa426f49d45256f5dffcd598d.js",
+    "precache-manifest.c8823a36b3cb486bd49dfc5ac2a1c75b.js": "/react-swiper-app/precache-manifest.c8823a36b3cb486bd49dfc5ac2a1c75b.js",
     "service-worker.js": "/react-swiper-app/service-worker.js",
-    "static/css/main.cfb5fdca.chunk.css.map": "/react-swiper-app/static/css/main.cfb5fdca.chunk.css.map",
+    "static/css/main.79811011.chunk.css.map": "/react-swiper-app/static/css/main.79811011.chunk.css.map",
     "static/js/2.57d875e6.chunk.js.LICENSE.txt": "/react-swiper-app/static/js/2.57d875e6.chunk.js.LICENSE.txt",
     "static/media/bookmark.f20a50bb.svg": "/react-swiper-app/static/media/bookmark.f20a50bb.svg",
     "static/media/calendar.f1592feb.svg": "/react-swiper-app/static/media/calendar.f1592feb.svg",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.044dde02.js",
     "static/js/2.57d875e6.chunk.js",
-    "static/css/main.cfb5fdca.chunk.css",
+    "static/css/main.79811011.chunk.css",
     "static/js/main.7e3648d1.chunk.js"
   ]
 }
